@@ -1,0 +1,7 @@
+extern "C" {
+   void _ZN7android8hardware6camera6device4V1_014implementation12CameraDeviceC1ENS_2spINS1_6common6helper12CameraModuleEEERKNSt3__112basic_stringIcNSB_11char_traitsIcEENSB_9allocatorIcEEEERKNS_12SortedVectorINSB_4pairISH_SH_EEEE() {}
+}
+
+extern "C" {
+   void _ZN7android8hardware6camera6device4V3_414implementation12CameraDeviceC1ENS_2spINS1_6common6helper12CameraModuleEEERKNSt3__112basic_stringIcNSB_11char_traitsIcEENSB_9allocatorIcEEEERKNS_12SortedVectorINSB_4pairISH_SH_EEEE() {}
+}
